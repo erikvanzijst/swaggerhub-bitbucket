@@ -15,7 +15,7 @@ import java.util.List;
  **/
 
 @ApiModel(description = "A paginated list of issue attachments.")
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-04-07T21:16:53.982Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.JavaClientCodegen", date = "2016-04-07T21:24:16.972Z")
 public class PaginatedIssueAttachments   {
   
   private String next = null;
